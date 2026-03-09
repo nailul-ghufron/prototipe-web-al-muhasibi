@@ -1,2 +1,2 @@
 # Mabna-AL-Muhasibi
-Website Mabna Al Muhasibi MSAA UIN Maliki Malang
+Prototipe Website Mabna Al Muhasibi MSAA UIN Maliki Malang
